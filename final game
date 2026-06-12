@@ -13,8 +13,8 @@ choice1 = input('you have been invited out to '
                 'dinner with friends, '
                 'as the night goes on you see a shadowy figure lingering '
                 'around your table but why '
-                'Type "left" to confront the figure '
-                'Type "right" to begin tracking occurences.').lower()
+                'Type "right" to confront the figure '
+                'Type "left" to begin tracking occurences.').lower()
 if choice1 == "left":
     choice2 = input('you get home from dinner and start chatting with'
                     ' your roommate they describe your entire day. '
