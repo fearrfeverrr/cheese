@@ -1,0 +1,45 @@
+print(r''')
+,adPPYba, 8b,dPPYba,  8b       d8  
+I8[    "" 88P'    "8a `8b     d8'  
+ `"Y8ba,  88       d8  `8b   d8'   
+aa    ]8I 88b,   ,a8"   `8b,d8'    
+`"YbbdP"' 88`YbbdP"'      Y88'     
+          88              d8'      
+          88             d8'  ''')
+
+print('welcome to "find the spy."')
+print("your goal is to find a way out..alive.")
+choice1 = input('you have been invited out to '
+                'dinner with friends, '
+                'as the night goes on you see a shadowy figure lingering '
+                'around your table but why '
+                'Type "left" to confront the figure '
+                'Type "right" to begin tracking occurences.').lower()
+if choice1 == "left":
+    choice2 = input('you get home from dinner and start chatting with'
+                    ' your roommate they describe your entire day. '
+                    'Type "left" to ask them how they knew or '
+                    'Type"right" to be coy and note this as well.').lower()
+
+    if choice2 == "right":
+        choice3 = input('the next morning you find a Christmas '
+                        'greeting card on your balcony..weird, '
+                        'you go to ask your roommate about it '
+                        'but they start acting paranoid'
+                        ' and denying knowing anything about the mystery card.. '
+                        'you realize you only have three options now.. '
+                        'Type "panic" to crash out on your roommate and accuse them. '
+                        'Type "stay" to continue like normal but plan to move out. or '
+                        'Type "leave" to tell your roommate '
+                        'you will be leaving immediately.').lower()
+
+        if choice1 == "panic":
+            print("just what they needed..have a nice grippy sock vaca..game over")
+        elif choice2 == "stay":
+            print("you were kind, respectful and, generous. happy harvest you win!")
+        elif choice3 == "leave":
+            print("uh oh .. and altercation broke out.. you were killed. game over")
+    else:
+        print("ermm.. miscalculation? game over.")
+else:
+    print("they gaslit you until you went insane..game over")
