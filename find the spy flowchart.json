@@ -1,0 +1,169 @@
+{
+  "version": "30.1.2",
+  "data": "<mxfile host=\"app.diagrams.net\" agent=\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36\"><diagram id=\"C5RBs43oDa-KdzZeNtuy\" name=\"Page-1\"><mxGraphModel dx=\"530\" dy=\"640\" grid=\"1\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"1\" pageScale=\"1\" pageWidth=\"827\" pageHeight=\"1169\" background=\"#FF99CC\" math=\"0\" shadow=\"1\"><root><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-0\"/><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-1\" parent=\"WIyWlLk6GJQsqaUBKTNV-0\"/><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-2\" edge=\"1\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" source=\"WIyWlLk6GJQsqaUBKTNV-3\" style=\"rounded=1;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#60E696;fontColor=default;\" target=\"WIyWlLk6GJQsqaUBKTNV-6\" value=\"\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-3\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;\" value=\"welcome to spy vs spy\" vertex=\"1\"><mxGeometry height=\"40\" width=\"200\" x=\"258\" y=\"80\" as=\"geometry\"/></mxCell><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-4\" edge=\"1\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" source=\"WIyWlLk6GJQsqaUBKTNV-6\" style=\"rounded=1;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#60E696;fontColor=default;\" target=\"WIyWlLk6GJQsqaUBKTNV-10\" value=\"Left\"><mxGeometry relative=\"1\" y=\"20\" as=\"geometry\"><mxPoint as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-5\" edge=\"1\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" source=\"WIyWlLk6GJQsqaUBKTNV-6\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;\" target=\"WIyWlLk6GJQsqaUBKTNV-7\" value=\"Right or &lt;br&gt;anything else\"><mxGeometry relative=\"1\" x=\"0.0533\" y=\"20\" as=\"geometry\"><mxPoint as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-6\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;rounded=1;\" value=\"right or left\" vertex=\"1\"><mxGeometry height=\"70\" width=\"115\" x=\"300.5\" y=\"165\" as=\"geometry\"/></mxCell><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-7\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;\" value=\"they gaslit you until you went insane..game over.\" vertex=\"1\"><mxGeometry height=\"40\" width=\"120\" x=\"500\" y=\"180\" as=\"geometry\"/></mxCell><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-8\" edge=\"1\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" source=\"WIyWlLk6GJQsqaUBKTNV-10\" style=\"rounded=1;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;strokeColor=#60E696;fontColor=default;\" value=\"Wait\"><mxGeometry relative=\"1\" x=\"0.3333\" y=\"20\" as=\"geometry\"><mxPoint as=\"offset\"/><mxPoint x=\"358\" y=\"430\" as=\"targetPoint\"/></mxGeometry></mxCell><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-9\" edge=\"1\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" source=\"WIyWlLk6GJQsqaUBKTNV-10\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;\" target=\"WIyWlLk6GJQsqaUBKTNV-12\" value=\"Swim or &lt;br&gt;anything else\"><mxGeometry relative=\"1\" x=\"0.1304\" y=\"20\" as=\"geometry\"><mxPoint as=\"offset\"/></mxGeometry></mxCell><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-10\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;rounded=1;\" value=\"left or right\" vertex=\"1\"><mxGeometry height=\"80\" width=\"100\" x=\"308\" y=\"290\" as=\"geometry\"/></mxCell><mxCell id=\"WIyWlLk6GJQsqaUBKTNV-12\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;\" value=\"a whale swallowed you.. game over.\" vertex=\"1\"><mxGeometry height=\"40\" width=\"120\" x=\"500\" y=\"310\" as=\"geometry\"/></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-8\" edge=\"1\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" source=\"XIO7HPUaEEIi33UVeby8-2\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;\" target=\"XIO7HPUaEEIi33UVeby8-5\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-9\" edge=\"1\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" source=\"XIO7HPUaEEIi33UVeby8-2\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;\" target=\"XIO7HPUaEEIi33UVeby8-7\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-11\" edge=\"1\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" source=\"XIO7HPUaEEIi33UVeby8-2\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;\" target=\"XIO7HPUaEEIi33UVeby8-6\"><mxGeometry relative=\"1\" as=\"geometry\"/></mxCell><mxCell id=\"Pod9ZpCUuWyWAEJu8RBV-5\" edge=\"1\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" source=\"XIO7HPUaEEIi33UVeby8-2\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#60E696;fontColor=default;\" target=\"Pod9ZpCUuWyWAEJu8RBV-4\"><mxGeometry relative=\"1\" as=\"geometry\"><Array as=\"points\"><mxPoint x=\"386\" y=\"510\"/><mxPoint x=\"560\" y=\"510\"/></Array></mxGeometry></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-2\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;rounded=1;\" value=\"3 options\" vertex=\"1\"><mxGeometry height=\"80\" width=\"110\" x=\"303\" y=\"430\" as=\"geometry\"/></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-5\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;\" value=\"you were kind &amp;amp; respectful.. you win\" vertex=\"1\"><mxGeometry height=\"40\" width=\"120\" x=\"300.5\" y=\"564\" as=\"geometry\"/></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-6\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;\" value=\"just what they needed..game over\" vertex=\"1\"><mxGeometry height=\"40\" width=\"120\" x=\"118\" y=\"450\" as=\"geometry\"/></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-7\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;\" value=\"uh oh.. an altercation broke out.. game over\" vertex=\"1\"><mxGeometry height=\"40\" width=\"120\" x=\"500\" y=\"450\" as=\"geometry\"/></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-12\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#095C86;rounded=1;\" value=\"leave\" vertex=\"1\"><mxGeometry height=\"30\" width=\"50\" x=\"423\" y=\"445\" as=\"geometry\"/></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-14\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#095C86;rounded=1;\" value=\"stay\" vertex=\"1\"><mxGeometry height=\"30\" width=\"50\" x=\"364\" y=\"525\" as=\"geometry\"/></mxCell><mxCell id=\"XIO7HPUaEEIi33UVeby8-15\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#095C86;rounded=1;\" value=\"panic\" vertex=\"1\"><mxGeometry height=\"30\" width=\"50\" x=\"255.5\" y=\"445\" as=\"geometry\"/></mxCell><mxCell id=\"Pod9ZpCUuWyWAEJu8RBV-4\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;\" value=\"uh oh..a miscalculation?&lt;div&gt;game over.&lt;/div&gt;\" vertex=\"1\"><mxGeometry height=\"40\" width=\"120\" x=\"500\" y=\"564\" as=\"geometry\"/></mxCell><mxCell id=\"Pod9ZpCUuWyWAEJu8RBV-6\" parent=\"WIyWlLk6GJQsqaUBKTNV-1\" style=\"text;html=1;labelBackgroundColor=none;fontColor=#095C86;rounded=1;\" value=\"Anything else\" vertex=\"1\"><mxGeometry height=\"30\" width=\"50\" x=\"414\" y=\"490\" as=\"geometry\"/></mxCell></root></mxGraphModel></diagram></mxfile>",
+  "pages": [
+    {
+      "id": "C5RBs43oDa-KdzZeNtuy",
+      "name": "Page-1",
+      "cells": [
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-1",
+          "type": "layer"
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-2",
+          "type": "edge",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "source": "WIyWlLk6GJQsqaUBKTNV-3",
+          "target": "WIyWlLk6GJQsqaUBKTNV-6"
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-3",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "welcome to spy vs spy"
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-4",
+          "type": "edge",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "source": "WIyWlLk6GJQsqaUBKTNV-6",
+          "target": "WIyWlLk6GJQsqaUBKTNV-10",
+          "label": "Left"
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-5",
+          "type": "edge",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "source": "WIyWlLk6GJQsqaUBKTNV-6",
+          "target": "WIyWlLk6GJQsqaUBKTNV-7",
+          "label": "Right or \nanything else",
+          "html": "Right or <br>anything else"
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-6",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "right or left"
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-7",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "they gaslit you until you went insane..game over."
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-8",
+          "type": "edge",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "source": "WIyWlLk6GJQsqaUBKTNV-10",
+          "label": "Wait"
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-9",
+          "type": "edge",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "source": "WIyWlLk6GJQsqaUBKTNV-10",
+          "target": "WIyWlLk6GJQsqaUBKTNV-12",
+          "label": "Swim or \nanything else",
+          "html": "Swim or <br>anything else"
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-10",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "left or right"
+        },
+        {
+          "id": "WIyWlLk6GJQsqaUBKTNV-12",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "a whale swallowed you.. game over."
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-8",
+          "type": "edge",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "source": "XIO7HPUaEEIi33UVeby8-2",
+          "target": "XIO7HPUaEEIi33UVeby8-5"
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-9",
+          "type": "edge",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "source": "XIO7HPUaEEIi33UVeby8-2",
+          "target": "XIO7HPUaEEIi33UVeby8-7"
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-11",
+          "type": "edge",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "source": "XIO7HPUaEEIi33UVeby8-2",
+          "target": "XIO7HPUaEEIi33UVeby8-6"
+        },
+        {
+          "id": "Pod9ZpCUuWyWAEJu8RBV-5",
+          "type": "edge",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "source": "XIO7HPUaEEIi33UVeby8-2",
+          "target": "Pod9ZpCUuWyWAEJu8RBV-4"
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-2",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "3 options"
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-5",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "you were kind &amp; respectful.. you win"
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-6",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "just what they needed..game over"
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-7",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "uh oh.. an altercation broke out.. game over"
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-12",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "leave"
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-14",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "stay"
+        },
+        {
+          "id": "XIO7HPUaEEIi33UVeby8-15",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "panic"
+        },
+        {
+          "id": "Pod9ZpCUuWyWAEJu8RBV-4",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "uh oh..a miscalculation?\ngame over.",
+          "html": "uh oh..a miscalculation?<div>game over.</div>"
+        },
+        {
+          "id": "Pod9ZpCUuWyWAEJu8RBV-6",
+          "type": "node",
+          "parent": "WIyWlLk6GJQsqaUBKTNV-1",
+          "label": "Anything else"
+        }
+      ]
+    }
+  ]
+}
