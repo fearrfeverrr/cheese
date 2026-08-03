@@ -38,7 +38,7 @@ if choice1 == "left":
         elif choice2 == "stay":
             print("you were kind, respectful and, generous. happy harvest you win!")
         elif choice3 == "leave":
-            print("uh oh .. and altercation broke out.. you were killed. game over")
+            print("uh oh .. an altercation broke out.. you were killed. game over")
     else:
         print("ermm.. miscalculation? game over.")
 else:
